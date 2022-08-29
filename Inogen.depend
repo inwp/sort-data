@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1661688771 source:c:\users\kawas\documents\c programming\inogen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ino/type.h"
+
+1661690004 c:\users\kawas\documents\c programming\inogen\ino\type.h
+
